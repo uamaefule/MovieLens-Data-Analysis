@@ -1,0 +1,6 @@
+Python 3.8+
+Pandas 1.3+
+NumPy 1.21+
+Matplotlib 3.5+
+Seaborn 0.11+
+Jupyter Notebook 6.4+
